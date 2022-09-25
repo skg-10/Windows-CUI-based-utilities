@@ -3,7 +3,7 @@
 
 ## Description
 * Accessibility tools 
-* Launching system tools (CMD, Control Panel, File Explorer)
+* System tools (CMD, Control Panel, File Explorer)
 * Windows Accessories (Printers and Fax, MS paint, WordPad)
 * Windows Administrative Tools 
 * Windows PowerShell (PowerShell and PowerShell IDE)
