@@ -2,7 +2,7 @@
 * Tools based on the classic CUI for Windows 7/8/10/11
 
 ## What is CUI?
-* CUI stands for `Character User Interface`. It is a user interface in which all communication between the user and the computer takes place via the keyboard, and all actions are controlled by commands. The majority of the early computers used CUI, which is the GUI's (`Graphical User Interface`) predecessor.
+* CUI stands for `Character User Interface`. It is a user interface in which all communication between the user and the computer takes place via the keyboard, and all actions are controlled by commands. The majority of the early computers used CUI, which is the GUI's `(Graphical User Interface)` predecessor.
 
 ## Description
 * Accessibility tools 
