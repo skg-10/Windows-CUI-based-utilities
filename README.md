@@ -7,7 +7,7 @@
 * Windows Accessories (Printers and Fax, MS paint, WordPad)
 * Windows Administrative Tools 
 * Windows PowerShell (PowerShell and PowerShell IDE)
-* MS Office Programs(if installed)
+* MS Office Programs (if installed)
 * All-In-One CMD Commands (some useful CMD commmands)
 * Extra Utilities
 * Power Options
