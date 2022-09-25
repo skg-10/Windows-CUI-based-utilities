@@ -15,3 +15,8 @@
 * Extra Utilities
 * Power Options
 * Cool stuff (a few extras to pass time)
+
+## Supported OS
+* This program is fully compatible with Windows 7/8/and 10. 
+* On Windows 11, some features, such as the Math Input Panel, are deactivated by default. It might need to be manually enabled.
+* Window size on the Windows Terminal (Windows 11) does not work correctly. For full functionality, change `Defaul termminal application` to `Windows Console Host` in Windows Terminal settings.
